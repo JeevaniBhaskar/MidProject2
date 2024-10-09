@@ -4,3 +4,5 @@ editor: visual
 ---
 
 Below is the link to the video presentation of the website, which explains the visualizations and the redesigns in detail.
+
+<https://www.youtube.com/watch?v=vQaJScKLQ04>
