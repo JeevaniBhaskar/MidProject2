@@ -15,7 +15,7 @@ While the graph is visually appealing and effectively identifies the counties, i
 
 ##### Plot 1: Loss comparison between the countries for the year 2019 and 2022
 
-![](plot1_high_res.png){width="665"}
+![](plot1_high_res.png){fig-align="center" width="665"}
 
 The redesigned graph is presented as a bar plot, which effectively showcases the economic losses incurred by countries in both 2019 and 2020. This format allows for a clear visual comparison of the losses experienced in each year. Each bar represents a specific country, with losses displayed in billions. The exact amounts are prominently labeled on the bars, facilitating immediate understanding of the financial impact.
 
